@@ -17,7 +17,7 @@
 </template>
 <script setup>
 import { ref, computed } from 'vue'
-import Dropdown from './components/common/DropDown.vue'
+import Dropdown from './components/Dropdown.vue'
 
 const dropdownItems = [
   { title: 'Electronics', value: 1 },
